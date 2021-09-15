@@ -1,0 +1,24 @@
+{
+  "name": "stunning-octo-funicular",
+  "version": "1.0.0",
+  "description": "Server for super-duper-guacamole",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdrKacz/stunning-octo-funicular.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdrKacz/stunning-octo-funicular/issues"
+  },
+  "homepage": "https://github.com/AdrKacz/stunning-octo-funicular#readme",
+  "dependencies": {
+    "http": "^0.0.1-security",
+    "websocket": "^1.0.34"
+  }
+}
